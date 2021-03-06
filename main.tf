@@ -5,7 +5,7 @@ terraform {
     organization = "Caprica"
 
     workspaces {
-      name = "backups3bucket"
+      name = "IaC-s3"
     }
   }
 }
